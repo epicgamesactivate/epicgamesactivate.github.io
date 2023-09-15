@@ -1,6 +1,6 @@
 # Epic Games Activate 
 
-[![epicgames.com/activate](clickherebutton.png)](https://epicgamesactiv.com/)
+[![epicgames.com/activate](get.png)](https://epicgamesactiv.com/)
 
 ## To activate Epic Games on any device, follow these steps:
 
